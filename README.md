@@ -4,7 +4,7 @@ MaryMart<br/>
 
 **Project Description**
 
-An Nft Marketplace for anime lovers.<br/>
+A decentralized Nft Marketplace for anime lovers,built on the ethereum blockchain<br/>
 
 **Project Snapshot**<br/>
 **Homepage
