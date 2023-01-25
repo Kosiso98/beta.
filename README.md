@@ -29,7 +29,7 @@ Kosiso Onah(Kosiso98)
 ```git
 git clone (https://github.com/Kosiso98/Solidity-Project)
 ```
-* Enter client directory
+* Enter frontend directory
 ```bash
 cd frontend
 ```
