@@ -1,11 +1,12 @@
 
-**Project Title**
+**Project Title**<br/>
+MaryMart<br/>
 
-MaryMart
 **Project Description**
 
-An Nft Marketplace for anime lovers.
-**Project Snapshot**
+An Nft Marketplace for anime lovers.<br/>
+
+**Project Snapshot**<br/>
 **Homepage
 ![home](https://user-images.githubusercontent.com/114183913/214615906-afe61fe8-5a0c-4c09-9745-82cd305c8c68.png)
 
@@ -74,11 +75,11 @@ Please make sure to update tests as appropriate.
 
 **Implementation Details**
 
--Homepage[x]
--Create NFT[x]
--Buy NFT[x]
--Profile[x]
--Connect wallet[x]
+<br/>Homepage[x]
+<br/>Create NFT[x]
+<br/>Buy NFT[x]
+<br/>Profile[x]
+<br>Connect wallet[x]
 
 **License
 
