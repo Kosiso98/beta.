@@ -7,8 +7,12 @@ MaryMart
 An Nft Marketplace for anime lovers.
 **Project Snapshot**
 **Homepage
+![home](https://user-images.githubusercontent.com/114183913/214615906-afe61fe8-5a0c-4c09-9745-82cd305c8c68.png)
 
 **Creat Nft Page
+![mint](https://user-images.githubusercontent.com/114183913/214615999-ce94d152-2cf9-46bf-8470-e7c9c85583e5.png)
+**Profile Page
+![profile](https://user-images.githubusercontent.com/114183913/214616066-1205d040-4b80-4da4-9c0b-360c27ae211f.png)
 
 - A project snapshot of the landing page.
 
@@ -75,11 +79,11 @@ Contributors are welcome to work on the project, just fork a branch and start wo
 
 **Implementation Details**
 
-[x] Homepage
-[x] Create NFT
-[x] Buy NFT
-[x] Profile
-[x] Connect wallet
+Homepage[x]
+Create NFT[x]
+Buy NFT[x]
+Profile[x]
+Connect wallet[x]
 
 License
 
