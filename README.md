@@ -15,7 +15,7 @@ A decentralized Nft Marketplace for anime lovers,built on the ethereum blockchai
 **Profile Page
 ![profile](https://user-images.githubusercontent.com/114183913/214616066-1205d040-4b80-4da4-9c0b-360c27ae211f.png)
 
-- A project snapshot of the landing page.
+
 
 **Project Website Link**
 
@@ -103,6 +103,9 @@ Please make sure to update tests as appropriate. 😊
 
  5. Open a Pull Request
 
+
+
+**License**
 
 MIT License
 
