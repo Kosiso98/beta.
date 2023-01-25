@@ -27,7 +27,7 @@ Kosiso Onah(Kosiso98)
 ****How to Install and Run the Project****
 - Clone the repository
 ```git
-git clone (https://github.com/Kosiso98/Solidity-Project)
+git clone (https://github.com/Kosiso98/Solidity-Project.git)
 ```
 * Enter frontend directory
 ```bash
@@ -53,12 +53,7 @@ Additional Information:
 Before running the project, create a pinata account and get your  PINATA API KEY;
 // PINATA SECRET KEY, copy them to an .env file in the /frontend/src/pinata.js;
 
-## :handshake: Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 **Usage**
 
@@ -82,14 +77,31 @@ Please make sure to update tests as appropriate.
 <br>Connect wallet[x]
 
 
-**How to Contribute
+🔮 Usage
+To use this application as your own, follow these simple steps:
 
-For contribution, you can fork the project to another branch
-**Implementation Details
+Fork this Repository (https://github.com/Kosiso98/Solidity-Project.git)
 
-This is a decentralized nft markertplace , that aims to make the process of buying animes nfts as seamlessand stress free as possible.
-visit the site https://marymart.netlify.app/ 
+Install Dependecies (npm install)
 
+Run Project (npm start)
+
+🤝## :handshake Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate. 😊
+
+ 1. Fork Project
+
+ 2. Create your Feature Branch (git checkout -b feature/coolFeature)
+
+ 3. Commit your changes(git commit -m "Add Some coolFeature" )
+
+ 4. Push to the Branch (git push origin feature/coolFeature)
+
+ 5. Open a Pull Request
 
 
 MIT License
