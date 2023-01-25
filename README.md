@@ -30,7 +30,7 @@ git clone (https://github.com/Kosiso98/Solidity-Project)
 ```
 * Enter client directory
 ```bash
-cd client
+cd frontend
 ```
 * Install dependencies
 ```npm
@@ -50,7 +50,7 @@ Additional Information:
 
 * __Setup Pinata__ : <br><br>
 Before running the project, create a pinata account and get your  PINATA API KEY;
-// PINATA SECRET KEY, copy them to an .env file i the //frontend/src/pinata.js;
+// PINATA SECRET KEY, copy them to an .env file in the /frontend/src/pinata.js;
 
 ## :handshake: Contributing
 
