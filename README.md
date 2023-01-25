@@ -19,7 +19,7 @@ A decentralized Nft Marketplace for anime lovers,built on the ethereum blockchai
 
 **Project Website Link**
 
-https://marymart.netlify.app/
+The live site can be viewed at https://marymart.netlify.app/
 
 **Project Author**
 
