@@ -64,12 +64,7 @@ Please make sure to update tests as appropriate.
  This project is still under production and as such different functionalities may not work as required, the blockchain industry is still evolving.
  The projectbis an open source, and can be used as needed, run as a test.
 
-## **Developer-centric options (if your project is open source)**
-
-Contributors are welcome to work on the project, just fork a branch and start working.
-**How to Contribute**
-
-## Build with🚀
+** Build with🚀
 * [Solidity](https://docs.soliditylang.org/)
 * [Hardhat](https://hardhat.org/getting-started/)
 * [React.js](https://reactjs.org/)
@@ -79,30 +74,29 @@ Contributors are welcome to work on the project, just fork a branch and start wo
 
 **Implementation Details**
 
-Homepage[x]
-Create NFT[x]
-Buy NFT[x]
-Profile[x]
-Connect wallet[x]
+-Homepage[x]
+-Create NFT[x]
+-Buy NFT[x]
+-Profile[x]
+-Connect wallet[x]
 
-License
+**License
 
 MIT License
 
-Copyright (c) 2023 Kosiso Onah
+**Copyright (c) 2023 Kosiso Onah
 
 The right to deal in the software without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), subject to the following requirements:
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-Developer-centric options (if your project is open source)
-As a little deter, the contract address(Admin) has been hardcoded, users can only interact as voters. you can write to the author for the admin access, it will granted.
-
-How to Contribute
+**Developer-centric options
+This project is an open source project, with a view to developing the next big marketplace for anime nfts.
+**How to Contribute
 
 For contribution, you can fork the project to another branch
-Implementation Details
+**Implementation Details
 
 This is a decentralized nft markertplace , that aims to make the process of buying animes nfts as seamlessand stress free as possible.
 visit the site https://marymart.netlify.app/ 
